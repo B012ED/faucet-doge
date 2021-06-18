@@ -20,6 +20,6 @@ This is a doge generating application using a php program with faucetpay payment
 * `cd faucet-doge`
 * `php bot.php`
 
-**NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'target.txt' and enter the target url
-
+**NOTE:** 
+Using two files including data files in it.
 
