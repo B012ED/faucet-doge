@@ -16,7 +16,7 @@ This is a doge generating application using a php program with faucetpay payment
 **Linux:**
 * `apt-get install php`
 * `apt-get install git`
-* `git clone https://github.com/B012ED/faucet-dogeg.it`
+* `git clone https://github.com/B012ED/faucet-doge.git`
 * `cd faucet-doge`
 * `php bot.php`
 
