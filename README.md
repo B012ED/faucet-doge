@@ -20,6 +20,5 @@ This is a doge generating application using a php program with faucetpay payment
 * `cd faucet-doge`
 * `php bot.php`
 
-**NOTE:** 
-Using two files including data files in it.
+**NOTE:** Using two files including data files in it.
 
